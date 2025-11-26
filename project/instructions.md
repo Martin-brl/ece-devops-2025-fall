@@ -2,7 +2,7 @@
 
 ## Deadline
 
-Deadline coming soon.
+18 th of November 2025
 
 ## Opportunities
 
