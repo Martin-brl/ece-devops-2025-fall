@@ -123,7 +123,7 @@ List of bonus tasks proposed:
 
 ## How to send a project for evaluation?
 
-1. **ATTENTION!** Make sure your repository is **PUBLIC** and **you have sent an invitation** to teacher's GitHub account. Otherwise, **if it isn't PRIVATE the final grade will be reduced to 0**.
+1. **ATTENTION!** Make sure your repository is **PRIVATE** and **you have sent an invitation** to teacher's GitHub account. Otherwise, **if it isn't PRIVATE the final grade will be reduced to 0**.
 
 2. After you have sent the invitation, send an email to your teacher containing the following:
 
